@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>FlashMind Privacy Policy</title>
+</head>
+
+<body>
+
+<h1>Privacy Policy</h1>
+
+<p>Last updated: July 2026</p>
+
+<p>
+FlashMind respects your privacy.
+This Privacy Policy explains how we collect, use, and protect your information.
+</p>
+
+<h2>Information We Collect</h2>
+
+<ul>
+<li>Email address</li>
+<li>Learning progress</li>
+<li>Flashcards and quizzes you create</li>
+<li>Crash reports</li>
+</ul>
+
+<h2>How We Use Information</h2>
+
+<ul>
+<li>Provide learning services</li>
+<li>Synchronize your progress</li>
+<li>Improve the application</li>
+<li>Provide customer support</li>
+</ul>
+
+<h2>Third-party Services</h2>
+
+<ul>
+<li>Supabase</li>
+<li>RevenueCat</li>
+<li>Google Play Billing</li>
+<li>OpenAI</li>
+</ul>
+
+<h2>Contact</h2>
+
+<p>
+support@flashmind.app
+</p>
+
+</body>
+</html>
